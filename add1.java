@@ -6,5 +6,7 @@ public class add1 {
         int b = 20;
         int sum =a + b;
         System.out.println("sum" + sum);
+        int sub =a - b;
+        System.out.println("sub" + sub);
 }
 }
